@@ -5,9 +5,5 @@ a .text-light{
 a .text-dark{
     text-decoration: none;
 }
-.navbar{
-    z-index: 999;
-}
-#navbarScrollingDropdown{
-    color: #fff;
-}
+
+

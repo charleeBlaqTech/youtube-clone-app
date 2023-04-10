@@ -1,0 +1,30 @@
+/* #navbar{
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+} */
+#navbar-items-contrainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+} 
+
+.search-input.search{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius:0px;
+    width: 600px;
+}
+
+#search-icon{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius:0px;
+    width: 70px;
+}

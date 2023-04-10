@@ -1,5 +1,6 @@
 export{default as NavBar}from './NavBar';
 export{default as Footer}from './Footer';
+export{default as SideBar}from './SideBar';
 export{default as Feed}from './pages/Feed';
 export{default as VideoDetails}from './pages/VideoDetails';
 export{default as ChannelDetails}from './pages/ChannelDetails';
